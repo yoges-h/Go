@@ -1,6 +1,6 @@
 
 // An array has a fixed siz
-
+//
 package main 
 
 import "fmt"
