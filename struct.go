@@ -10,7 +10,7 @@ type Vertex struct {
 	X int
 	Y int
 }
-
+// this is my first vim line 
 func main(){
 
 	fmt.Println(Vertex{1,2})
