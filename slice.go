@@ -1,12 +1,12 @@
 
-// An array has a fixed size. A slice, on the other hand, is a dynamically-sized 
-// flexible view intop elements of an array. In practice, Slice are much more comman than array.
+// An array has a fixed siz
 
 package main 
 
 import "fmt"
 
 func main(){
+// this is the just testing of vim terminal 
 
 	primes := [6]int{2,3,5,7,11,13}
 
