@@ -8,7 +8,7 @@ import "fmt"
 func  main(){
 
 	 var a [2]string // a [2]string is an array of Strings 
-
+// testing will be there 
 	  a[0] = "Hello" // defining the data of array as "Hello"
 	  a[1] = "world" // Defining the data of array as "world"
 
