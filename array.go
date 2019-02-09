@@ -1,5 +1,5 @@
 
-// array in go 
+/// array in go 
 
 package main 
 
@@ -17,5 +17,7 @@ func  main(){
 
 	  primes := [6]int{2,3,5,7,11,13} // Defining the Array of Prime Numbers 
 	  fmt.Println(primes) // Printing the data of prime numbers 
+	  /// END HERE
+
 
 }
